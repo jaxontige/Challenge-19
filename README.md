@@ -1,1 +1,2 @@
 # Challenge-19
+# Corb and I worked together on this as usual. It went pretty smoothly, except for the fact that random_state is not changing the outcome of my arrays. We did a lot of troubleshooting with stack overflow, Chat GPT, and manual review but could not find the culprit of the problem. It's still consistently running, but I believe I must be running the wrong kernel or am missing a module that I needed. Not sure, will ask in office hours on Monday. 
